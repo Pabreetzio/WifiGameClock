@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="1.1812005in"
+   height="0.75587535in"
+   viewBox="0 0 106.30805 68.028779"
+   sodipodi:docname="TP4056-Breadboard.svg"
+   style="enable-background:new">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="true"
+     inkscape:zoom="3.1999999"
+     inkscape:cx="124.83324"
+     inkscape:cy="17.632582"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="in"
+     inkscape:document-units="in" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Raster"
+     style="display:inline"
+     transform="translate(-155.72973,-86.604115)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Vector"
+     style="display:inline"
+     transform="translate(-155.72973,-86.604115)">
+    <g
+       id="g4167"
+       transform="matrix(1.4046763,0,0,1.3138352,-63.02014,-48.529236)">
+      <rect
+         ry="2.5483232"
+         y="102.85411"
+         x="155.72974"
+         height="51.778778"
+         width="75.681526"
+         id="rect4138"
+         style="fill:#859eaa;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4204"
+         d="m 165.12851,154.54182 -7.95805,-0.0929 -0.62005,-0.67676 c -0.48188,-0.52595 -0.64649,-0.89861 -0.73871,-1.67234 -0.0652,-0.54757 -0.0933,-11.44772 -0.0623,-24.22255 l 0.0563,-23.22696 0.44571,-0.62492 c 0.87187,-1.22245 -1.81246,-1.14033 37.27487,-1.14033 38.6237,0 36.26208,-0.0642 37.25605,1.01299 l 0.46454,0.50343 0.0469,24.18755 c 0.046,23.7328 0.0401,24.19873 -0.31696,24.78243 -0.76946,1.25786 1.45842,1.1665 -29.68442,1.21728 -15.51323,0.0253 -31.78699,0.004 -36.16392,-0.0469 z"
+         style="fill:#024d75;fill-opacity:1;stroke:none" />
+      <rect
+         ry="2.5483232"
+         y="134.47371"
+         x="204.94748"
+         height="10.034048"
+         width="13.564545"
+         id="rect4254"
+         style="display:inline;fill:#484d4b;fill-opacity:1;stroke:none" />
+      <flowRoot
+         inkscape:label="#chipLabel"
+         transform="matrix(0.21022646,0,0,0.21022646,157.06801,104.35365)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99989605px;line-height:100%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#6b6956;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="chipLabel"
+         xml:space="preserve"><title
+           id="title4149">Chip Label</title><flowRegion
+           id="flowRegion4154"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99989605px;line-height:100%;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6b6956;fill-opacity:1"
+             y="149.425"
+             x="231.25"
+             height="32.440819"
+             width="73.099686"
+             id="rect4156" /></flowRegion><flowPara
+           style="font-size:11.89193821px"
+           id="flowPara4166">TP4056</flowPara></flowRoot>      <rect
+         ry="2.5483232"
+         y="145.43022"
+         x="222.46902"
+         height="7.6207089"
+         width="7.6207089"
+         id="rect4146"
+         style="display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none" />
+      <rect
+         ry="2.5483232"
+         y="104.69884"
+         x="221.94347"
+         height="7.6207089"
+         width="7.8834925"
+         id="rect4144"
+         style="display:inline;fill:#b1b6b0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="2.5483232"
+         y="103.9105"
+         x="164.65675"
+         height="8.6718416"
+         width="8.4090586"
+         id="rect4142"
+         style="display:inline;fill:#b1b6b0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="2.5483232"
+         y="145.43022"
+         x="164.65675"
+         height="8.1462755"
+         width="8.1462755"
+         id="rect4148"
+         style="display:inline;fill:#b1b6b0;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4250"
+         d="m 224.24127,152.86157 c -0.74368,-0.22816 -1.49802,-1.11406 -1.65326,-1.94158 -0.0658,-0.35081 -0.09,-1.34569 -0.0538,-2.21083 0.10652,-2.54593 0.93607,-3.27932 3.68922,-3.26154 1.96316,0.0127 2.74371,0.26999 3.29179,1.08514 0.37758,0.56157 0.42452,0.85538 0.42452,2.65711 0,3.19765 -0.46566,3.72736 -3.34468,3.80478 -0.97089,0.0261 -2.03007,-0.0338 -2.35374,-0.13308 z"
+         style="display:inline;fill:#b1b6b0;fill-opacity:1;stroke:none" />
+      <rect
+         ry="2.5483232"
+         y="117.78037"
+         x="158.53777"
+         height="19.696465"
+         width="25.642567"
+         id="rect4252"
+         style="display:inline;fill:#b1b6b0;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

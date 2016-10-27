@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   x="0in"
+   y="0in"
+   width="0.55756545in"
+   height="0.43773869in"
+   viewBox="0 0 40.144713 31.517185"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="TP4056-Schematic.svg">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs39" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1341"
+     inkscape:window-height="684"
+     id="namedview37"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.6984785"
+     inkscape:cx="40.196293"
+     inkscape:cy="19.690035"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4234" />
+  <g
+     id="g4234"
+     transform="translate(0.1334496,0)">
+    <g
+       id="g4257">
+      <rect
+         y="0.39807874"
+         height="30.721027"
+         x="14.348078"
+         width="25.265104"
+         id="rect7"
+         style="fill:none;stroke:#000000;stroke-width:0.79615748;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         y="18.200193"
+         x="28.047962"
+         id="label"
+         font-size="3.5"
+         style="font-size:3.5px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none">TP4056</text>
+      <line
+         y2="7.1999998"
+         x2="14.4"
+         y1="7.1999998"
+         x1="0.34999901"
+         id="line10"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="6.8499999"
+         height="0.69999802"
+         x="0"
+         connectorName="1"
+         width="14.4"
+         id="connector0pin"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="7.8999801"
+         x="15.8"
+         id="label0"
+         font-size="3.5"
+         style="font-size:3.5px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">IN+</text>
+      <text
+         class="text"
+         y="6.1500001"
+         x="7.1999998"
+         font-size="2.5"
+         id="text15"
+         style="font-size:2.5px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0">IN+</text>
+      <line
+         y2="14.4"
+         x2="14.4"
+         y1="14.4"
+         x1="0.34999901"
+         id="line17"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="14.05"
+         height="0.69999802"
+         x="0"
+         connectorName="2"
+         width="14.4"
+         id="connector1pin"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="15.1"
+         x="15.8"
+         id="label1"
+         font-size="3.5"
+         style="font-size:3.5px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">IN-</text>
+      <text
+         class="text"
+         y="13.35"
+         x="7.1999998"
+         font-size="2.5"
+         id="text22"
+         style="font-size:2.5px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0">IN-</text>
+      <line
+         y2="21.6"
+         x2="14.4"
+         y1="21.6"
+         x1="0.34999901"
+         id="line24"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="21.25"
+         height="0.69999802"
+         x="0"
+         connectorName="3"
+         width="14.4"
+         id="connector2pin"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="22.299999"
+         x="15.8"
+         id="label2"
+         font-size="3.5"
+         style="font-size:3.5px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">BAT+</text>
+      <text
+         class="text"
+         y="20.549999"
+         x="7.1999998"
+         font-size="2.5"
+         id="text29"
+         style="font-size:2.5px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0">BAT+</text>
+      <line
+         y2="28.651247"
+         x2="14.271537"
+         y1="28.651247"
+         x1="0.22153427"
+         id="line24-9"
+         style="fill:none;stroke:#787878;stroke-width:0.69999802;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         y="28.301247"
+         height="0.69999802"
+         x="-0.12846468"
+         connectorName="3"
+         width="14.4"
+         id="connector2pin-6"
+         style="fill:none;stroke-width:0" />
+      <text
+         y="29.351246"
+         x="15.671536"
+         id="label2-6"
+         font-size="3.5"
+         style="font-size:3.5px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none">BAT-</text>
+      <text
+         class="text"
+         y="27.601246"
+         x="7.0715346"
+         font-size="2.5"
+         id="text29-6"
+         style="font-size:2.5px;font-family:'Droid Sans';text-anchor:middle;fill:#8c8c8c;stroke:none;stroke-width:0">BAT-</text>
+    </g>
+  </g>
+</svg>
