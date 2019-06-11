@@ -44,9 +44,14 @@ void setup()
 
 void loop()
 {
-  for(NumStep = 0; NumStep < 9999; NumStep++)  //Interrate NumStep
+  for(NumStep = 9999; NumStep > 0; NumStep--)  //Interrate NumStep
   {
     display.showNumberDec(NumStep); //Display the Variable value;
-    delay(100);  //A half second delay between steps.
+    delay(1);  //A half second delay between steps.
+    if(NumStep == 1)
+    {
+      display.showNumberDec(0);
+      delay(60000);
+    }
   }
 }
