@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wi‑Fi Game Clock</title>
+  <meta name="description" content="An open, modular networked game clock for chess, bughouse, multiplayer games, and time controls that do not exist yet.">
+  <style>
+    :root { color-scheme: dark; font-family: ui-sans-serif, system-ui, sans-serif; background:#101318; color:#f4f6f8; }
+    body { margin:0; }
+    main { width:min(920px, calc(100% - 40px)); margin:auto; padding:72px 0; }
+    h1 { font-size:clamp(3rem, 10vw, 6.5rem); line-height:.88; letter-spacing:-.06em; margin:0 0 28px; }
+    h2 { margin-top:64px; font-size:2rem; }
+    p, li { color:#c8d0da; font-size:1.1rem; line-height:1.65; }
+    .lead { font-size:clamp(1.25rem, 3vw, 1.7rem); max-width:760px; }
+    .clock { display:inline-block; font-family:ui-monospace, monospace; letter-spacing:.08em; color:#75f0a0; }
+    .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:18px; margin-top:28px; }
+    .card { border:1px solid #303844; border-radius:16px; padding:22px; background:#171b22; }
+    .card strong { font-size:1.15rem; }
+    .tag { display:inline-block; border:1px solid #3e4b59; border-radius:999px; padding:7px 11px; color:#aeb9c6; margin-bottom:24px; }
+    a { color:#8dc7ff; }
+  </style>
+</head>
+<body>
+<main>
+  <span class="tag">open hardware + open software</span>
+  <h1>One button.<br>One display.<br><span class="clock">09:42</span></h1>
+  <p class="lead">Wi‑Fi Game Clock is a modular game-timing platform. Give every player a clock pod, connect the pods wirelessly, and let software define what “the clock” means.</p>
+
+  <div class="grid">
+    <div class="card"><strong>2 players</strong><p>Run an ordinary chess clock without giving up the familiar physical button.</p></div>
+    <div class="card"><strong>4-player bughouse</strong><p>Put a clock beside every player and experiment with genuinely shared team time.</p></div>
+    <div class="card"><strong>N players</strong><p>Build timers for board games, tournaments, teams, handicaps, and rules nobody has named yet.</p></div>
+  </div>
+
+  <h2>Hardware you can make yours</h2>
+  <p>The reference pod starts simple: a readable four-digit display with a colon, a radio, and one satisfying button. From there the physical interface is intentionally hackable — illuminated arcade buttons, quiet switches, clicky switches, piezo controls, custom cases, RGB status lights, buzzers, speakers, or whatever fits the game.</p>
+
+  <h2>No tiny-display programming ritual</h2>
+  <p>Clock setup belongs on a screen designed for setup. Discover nearby pods from a phone, press a physical button to identify each player, choose a preset or create a time control, and start playing. The clocks then run locally; the phone and internet do not need to stay connected.</p>
+
+  <h2>Time controls as software</h2>
+  <p>A physical pod is a networked timer endpoint, not half of a permanently two-player chess clock. Logical clocks can belong to players or teams, multiple clocks can run simultaneously, and events can add, subtract, transfer, delay, or change the rate of time.</p>
+
+  <h2>Built to keep evolving</h2>
+  <p>The project is planned as a monorepo containing firmware, schematics, enclosure designs, the device web UI, a mobile companion, shared protocol/time-control libraries, and this project site. OTA updates make assembled clocks part of the development process instead of frozen prototypes.</p>
+
+  <h2>Status</h2>
+  <p>The original ESP8266 prototype already demonstrated a four-digit TM1637 display, button input, a hosted setup page, Wi‑Fi, mDNS, and clock-to-clock communication. The project is now being revived around a cleaner multi-device architecture, with a four-pod shared-time bughouse demo as the first reference target.</p>
+
+  <p><a href="https://github.com/Pabreetzio/WifiGameClock">Follow the project on GitHub →</a></p>
+</main>
+</body>
+</html>
